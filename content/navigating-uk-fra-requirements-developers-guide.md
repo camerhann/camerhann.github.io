@@ -1,7 +1,7 @@
 ---
 title: "Navigating the UK's Flood Risk Assessment Requirements: A Developer's Guide"
 date: "2024-05-24" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Don't let flood risk assessments sink your development! Our developer's guide demystifies UK FRA requirements, helping you save time, money, and navigate planning."
 keywords: ["flood risk assessment UK", "FRA guidance", "planning permission flood risk", "developer flood risk", "NPPF flood risk", "local flood authorities"]
 tags: ["Flood Risk Assessment", "UK Planning", "Property Development", "NPPF"]

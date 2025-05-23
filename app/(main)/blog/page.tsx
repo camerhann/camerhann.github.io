@@ -4,8 +4,8 @@ import ArticleCard from '@/components/blog/ArticleCard';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Articles - [Your Name] | Flood & Environmental Insights',
-  description: 'Browse articles on flood risk, sustainable drainage, environmental consulting, and development policy by [Your Name].',
+  title: 'Articles - Chris Cameron-Hann | Flood & Environmental Insights',
+  description: 'Explore a collection of articles, guides, and case studies on flood risk management, SuDS, environmental regulations, and sustainable development by Chris Cameron-Hann.',
 };
 
 export default function BlogIndexPage() {

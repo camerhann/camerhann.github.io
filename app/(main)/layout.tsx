@@ -19,8 +19,8 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: '[Your Name] - Flood & Environmental Insights',
-  description: 'Expert insights on flood risk, drainage, environmental consulting, and sustainable development by [Your Name].',
+  title: 'Chris Cameron-Hann - Flood & Environmental Insights',
+  description: 'Expert insights on flood risk assessment, environmental consulting, and sustainable development. Authored by Chris Cameron-Hann, founder of Aegaea.',
   // Add more metadata: openGraph, twitter, icons etc.
   icons: {
     icon: '/favicon.ico', // Place your favicon in public/
