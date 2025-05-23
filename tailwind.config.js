@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'brand-teal': '#00796B',        // Primary Bold
-        'brand-teal-light': '#4DB6AC', // Lighter accent for hover/secondary elements
+        'brand-teal': '#32CD32',        // Primary Lime Green
+        'brand-teal-light': '#FF1493', // Secondary Deep Pink (Complimentary)
         'brand-text-dark': '#212529',   // Main body text
         'brand-text-light': '#6C757D',  // Meta text, secondary info
         'brand-bg-light': '#F8F9FA',    // Main background
@@ -60,8 +60,8 @@ module.exports = {
     themes: [
       {
         mytheme: {
-          "primary": "#00796B",        // brand-teal
-          "secondary": "#4DB6AC",      // brand-teal-light
+          "primary": "#32CD32",        // Lime Green
+          "secondary": "#FF1493",      // Deep Pink
           "accent": "#B08D57",         // Muted Gold (example)
           "neutral": "#212529",       // brand-text-dark
           "base-100": "#F8F9FA",      // brand-bg-light

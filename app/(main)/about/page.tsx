@@ -1,9 +1,10 @@
 import type { Metadata } from 'next';
 import Image from 'next/image'; // Optional: if you want to use next/image
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'About Chris Cameron-Hann - Flood & Environmental Expertise',
-  description: 'Learn more about Chris Cameron-Hann, an expert in flood risk, drainage, and environmental consulting dedicated to building resilient futures. Founder of Aegaea, Senior Hydromet Adviser at the World Bank, and SVP Business Development at 7Analytics.',
+  description: 'Learn more about Chris Cameron-Hann, an expert in flood risk, drainage, and environmental consulting dedicated to building resilient futures. Director at Aegaea, Senior Hydromet Adviser at the World Bank, and consultant to 7Analytics.',
 };
 
 export default function AboutPage() {
@@ -27,11 +28,24 @@ export default function AboutPage() {
         
         <h2 className="text-2xl font-semibold font-sans text-brand-teal mb-4">Chris Cameron-Hann</h2>
         <p className="text-lg text-brand-text-dark mb-4">
-          Hello! I'm Chris Cameron-Hann, a passionate and experienced consultant specializing in flood risk management, sustainable drainage systems (SuDS), and comprehensive environmental assessments. I've had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and private landowners.
+          Hello! I'm Chris Cameron-Hann. My work focuses on navigating complex water and environmental challenges through bespoke, innovative solutions. I have had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and governments worldwide.
         </p>
         <p className="text-lg text-brand-text-dark mb-4">
-          My core mission is to bridge the gap between complex environmental challenges and pragmatic, effective solutions. I believe that sustainable development and robust resilience are not mutually exclusive but can, and should, go hand-in-hand.
+          My core mission is to bridge the gap between these challenges and pragmatic, effective solutions. I believe that sustainable development and robust resilience are not mutually exclusive but can, and should, go hand-in-hand.
         </p>
+        
+        <div className="text-lg text-brand-text-dark mb-4 space-y-3">
+          <p>
+            I am a <strong>Director at Aegaea Limited</strong>, a water, civils and environmental consultancy. We offer bespoke and innovative solutions to the UK and International flood risk and water markets, finding the 'how' to take your project forward by leveraging technology and deep insight into water.
+          </p>
+          <p>
+            As an <strong>advisor and business development consultant to 7Analytics</strong>, a Norwegian flood risk and flood forecasting specialist, I contribute to disrupting and improving the physical risk space with enhanced flood data.
+          </p>
+          <p>
+            Additionally, I serve as a <strong>Senior Hydrometeorology Advisor to the World Bank</strong>, working with governments across the world to understand and improve their work around weather intelligence and flood forecasting – from capacity building and gap analysis, to financial investment and technical advice.
+          </p>
+        </div>
+
         <p className="text-lg text-brand-text-dark mb-4">
           Through this blog, I aim to share insights, demystify regulations, and offer practical guidance to help you navigate the intricacies of environmental planning and create projects that are not only compliant but also contribute positively to our built and natural environments.
         </p>
@@ -45,16 +59,17 @@ export default function AboutPage() {
           <li>Coastal erosion and shoreline management planning.</li>
           <li>Environmental permitting and compliance.</li>
           <li>Climate change adaptation strategies for developments.</li>
+          <li>Weather intelligence and flood forecasting capacity building.</li>
+          <li>Financial investment and technical advice for hydromet services.</li>
         </ul>
 
         <p className="text-lg text-brand-text-dark mb-4">
-          Currently, I am the Founder of Aegaea, a Senior Hydromet Adviser at the World Bank, and SVP Business Development at 7Analytics. I'm always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
+          I'm always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
         </p>
 
-        {/* Optional: Link to LinkedIn or professional profile */}
-        {/* <Link href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="btn btn-outline border-brand-teal text-brand-teal hover:bg-brand-teal hover:text-white mt-4">
+        <Link href="https://www.linkedin.com/in/chris-cameron-hann/" target="_blank" rel="noopener noreferrer" className="btn btn-outline border-brand-teal text-brand-teal hover:bg-brand-teal hover:text-white mt-4">
           Connect on LinkedIn
-        </Link> */}
+        </Link>
       </div>
     </div>
   );
