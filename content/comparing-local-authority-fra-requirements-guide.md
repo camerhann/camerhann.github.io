@@ -1,12 +1,12 @@
 ---
 title: "Comparing Flood Risk Assessment Requirements Across UK Local Authorities: What Developers Need to Know"
 date: "2024-05-19" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Developing UK-wide? FRA requirements vary hugely between LAs! Our guide compares key differences in flood risk policy, helping you plan smarter & avoid delays."
-keywords: ["local authority flood risk requirements", "FRA local differences", "flood risk assessment comparison", "UK planning flood requirements", "regional flood policy", "developer FRA variations"]
+keywords: ["local authority flood risk assessment requirements", "compare LA FRA policy UK", "regional flood risk differences", "developer guide local planning flood", "SFRA variations"]
 tags: ["FRA Requirements", "Local Authority", "Regional Policy", "UK Planning", "Development Strategy"]
-categories: ["Regulatory Guidance", "Development Planning"]
-featured_image: "/images/blog/placeholder-7.jpg" # Placeholder
+categories: ["Regulatory Guidance", "Strategic Planning"]
+featured_image: "/images/blog/comparing-local-authority-fra-hero.jpg" # Placeholder
 ---
 
 If you're a developer with ambitions stretching across the UK, you'll know that a planning application approved in, say, Birmingham, might hit a brick wall (or perhaps a flood wall) if submitted verbatim in Bristol or Brighton. This is particularly true when it comes to Flood Risk Assessments (FRAs). While national policies provide a framework, the on-the-ground interpretation and specific technical demands can vary as much as local accents and favourite B-roads.

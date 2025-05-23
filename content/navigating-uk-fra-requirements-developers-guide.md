@@ -3,10 +3,10 @@ title: "Navigating the UK's Flood Risk Assessment Requirements: A Developer's Gu
 date: "2024-05-24" # Placeholder Date - Please Update
 author: "[Your Name]" # Placeholder Author - Please Update
 description: "Don't let flood risk assessments sink your development! Our developer's guide demystifies UK FRA requirements, helping you save time, money, and navigate planning."
-keywords: ["flood risk assessment requirements", "FRA developer guide", "UK flood risk planning", "flood zone development", "property development flood risk", "planning permission flood zone"]
-tags: ["Flood Risk Assessment", "UK Planning", "Property Development", "Regulatory Guidance"]
-categories: ["Flood Risk", "Development Planning"]
-featured_image: "/images/blog/placeholder-1.jpg" # Placeholder - replace with actual image path in /public/images/blog/ or /content/images/blog/
+keywords: ["flood risk assessment UK", "FRA guidance", "planning permission flood risk", "developer flood risk", "NPPF flood risk", "local flood authorities"]
+tags: ["Flood Risk Assessment", "UK Planning", "Property Development", "NPPF"]
+categories: ["Flood Risk Management", "Development Planning"]
+featured_image: "/images/blog/navigating-uk-fra-requirements-hero.jpg" # Placeholder
 ---
 
 It's a truth universally acknowledged that a developer in possession of a good site must be in want of planning permission. But what happens when that prime piece of land comes with a splash of flood risk? Suddenly, you're wading through a deluge of Flood Risk Assessment (FRA) requirements that can vary more wildly than British weather.

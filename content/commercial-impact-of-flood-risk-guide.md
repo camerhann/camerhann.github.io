@@ -1,12 +1,12 @@
 ---
 title: "The Commercial Impact of Flood Risk: How Accurate Assessment Protects Development Value"
 date: "2024-05-16" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
-description: "Flood risk hits commercial property values hard. Learn how accurate FRAs & smart mitigation protect your development's bottom line, insurability & investor appeal."
-keywords: ["flood risk commercial impact", "development value flood assessment", "flood risk property valuation", "commercial property flood insurance", "investor flood risk", "cap rate flood impact"]
-tags: ["Commercial Property", "Flood Risk", "Valuation", "Investment", "Risk Management"]
-categories: ["Commercial Development", "Financial Impact"]
-featured_image: "/images/blog/placeholder-10.jpg" # Placeholder
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
+description: "Flood risk hits commercial property values hard. Learn how accurate FRAs & smart mitigation protect your development's bottom line, insurability & investor confidence."
+keywords: ["commercial property flood risk valuation", "flood risk impact on property values", "FRA commercial development", "insurability commercial property flood zone", "investor confidence flood risk"]
+tags: ["Commercial Property", "Flood Risk", "Valuation", "Insurability", "Investment", "FRA"]
+categories: ["Commercial Real Estate", "Risk Management"]
+featured_image: "/images/blog/commercial-impact-flood-risk-hero.jpg" # Placeholder
 ---
 
 In the world of commercial property development, a few percentage points on a yield or a slight dip in valuation can mean the difference between a roaring success and a painful write-down. One factor that's increasingly, and significantly, impacting these crucial financial metrics is **flood risk**. It's not just about the physical threat of water; it's about the cold, hard numbers on a balance sheet and the perception of risk in the eyes of investors, lenders, and tenants.

@@ -3,9 +3,9 @@ title: "Flood Risk and Biodiversity Net Gain: Creating Integrated Solutions for 
 date: "2024-05-02"
 author: "Chris Cameron-Hann"
 description: "Deliver Biodiversity Net Gain (BNG) & manage flood risk together! Explore integrated design solutions using SuDS & NFM to achieve planning success efficiently."
-keywords: ["biodiversity net gain flood management", "integrated BNG flood solutions", "ecological flood management", "sustainable drainage biodiversity", "NFM BNG", "SuDS habitat creation"]
-tags: ["Biodiversity Net Gain", "Flood Risk", "SuDS", "NFM", "Sustainable Development"]
-categories: ["Sustainable Development", "Ecological Planning"]
+keywords: ["biodiversity net gain flood risk", "SuDS BNG integration", "nature based solutions flood management", "BNG planning requirements", "ecological flood resilience"]
+tags: ["Biodiversity Net Gain", "Flood Risk", "SuDS", "Nature-Based Solutions", "Integrated Design"]
+categories: ["Environmental Planning", "Sustainable Development"]
 featured_image: "/images/blog/bng-integrated-solutions-hero.jpg"
 Featured image: Photo by [David Kovalenko](https://unsplash.com/@davidkovalenkoo) on [Unsplash](https://unsplash.com/photos/airplane-on-ground-surrounded-with-trees-G85VuTpw6jg)
 ---

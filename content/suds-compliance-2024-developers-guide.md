@@ -1,12 +1,12 @@
 ---
 title: "SuDS Compliance 2024: Meeting Mandatory Drainage Requirements in Your Development"
 date: "2024-05-24" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "SuDS mandatory in Wales & key across the UK! Our 2024 guide helps developers navigate SuDS approval, avoid costly rejections & design effective sustainable drainage."
 keywords: ["sustainable drainage systems requirements", "SuDS approval", "SAB approval Wales", "mandatory SuDS", "SuDS design guide", "surface water drainage regulations"]
 tags: ["SuDS", "Drainage", "Regulatory Compliance", "Wales Planning", "UK Development"]
 categories: ["Sustainable Drainage", "Development Planning"]
-featured_image: "/images/blog/placeholder-2.jpg" # Placeholder
+featured_image: "/images/blog/suds-compliance-hero.jpg" # Placeholder
 ---
 
 Remember when Sustainable Drainage Systems (SuDS) were the new kid on the block? A nice-to-have, a pat-on-the-back for eco-conscious developers? Well, times have changed. SuDS are no longer just a trendy accessory; they're increasingly a headline act in the development planning show, especially in Wales where they've hit mandatory super-stardom.

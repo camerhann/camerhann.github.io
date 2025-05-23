@@ -1,12 +1,12 @@
 ---
 title: "Hydraulic Modeling for Flood Risk Assessments: A Technical Guide for Developers"
 date: "2024-05-15" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Demystify hydraulic modeling in FRAs! Our technical guide for developers explains 1D & 2D flood models, data needs & how accurate modeling secures planning."
-keywords: ["hydraulic modeling flood risk", "1D 2D flood modeling", "hydrological assessment development", "flood simulation techniques", "FRA technical guide", "flood modeling software"]
-tags: ["Hydraulic Modeling", "Flood Risk Assessment", "FRA", "Technical Guide", "Development Planning"]
-categories: ["Flood Modelling", "Technical Guides"]
-featured_image: "/images/blog/placeholder-11.jpg" # Placeholder
+keywords: ["hydraulic modeling flood risk assessment", "1D 2D flood modeling", "FRA technical guidance", "flood model data requirements", "HEC-RAS Tuflow Flood Modeller Pro"]
+tags: ["Hydraulic Modeling", "Flood Risk Assessment", "FRA", "Technical Guidance", "Flood Modeling"]
+categories: ["Technical Guidance", "Flood Risk Assessment"]
+featured_image: "/images/blog/hydraulic-modeling-hero.jpg" # Placeholder
 ---
 
 For many developers, the term "hydraulic modeling" in the context of a Flood Risk Assessment (FRA) can sound like complex engineering jargon best left to the boffins in white coats. And while it *is* a highly technical field, understanding the basics of why, when, and how hydraulic models are used can be the difference between a smooth planning journey and a costly, protracted one filled with technical queries from statutory consultees.

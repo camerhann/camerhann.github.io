@@ -2,10 +2,10 @@
 title: "Understanding Functional Floodplain Designations: Implications for Development and Land Value"
 date: "2024-05-05"
 author: "Chris Cameron-Hann"
-description: "Is your site in Flood Zone 3b (Functional Floodplain)? Understand the severe development restrictions & how to potentially challenge incorrect floodplain designations."
-keywords: ["functional floodplain development", "flood zone 3b restrictions", "floodplain designation impact", "development flood zone 3b", "FRA Flood Zone 3b", "challenging floodplain maps"]
-tags: ["Functional Floodplain", "Flood Zone 3b", "Flood Risk", "Land Development"]
-categories: ["Flood Risk", "Land Development"]
+description: "Is your site in Flood Zone 3b (Functional Floodplain)? Understand the severe development restrictions & how to potentially challenge incorrect floodplain mapping."
+keywords: ["functional floodplain development restrictions", "Flood Zone 3b NPPF", "development in functional floodplain", "challenging flood maps", "land value impact flood zone 3b"]
+tags: ["Functional Floodplain", "Flood Zone 3b", "Flood Risk", "NPPF", "Development Restrictions", "Land Value"]
+categories: ["Regulatory Guidance", "Land Development"]
 featured_image: "/images/blog/functional-floodplain-hero.jpg"
 Featured image: Photo by [Iqro Rinaldi](https://unsplash.com/@iqro_rinaldi) on [Unsplash](https://unsplash.com/photos/rescue-workers-navigate-floodwaters-in-a-boat-_hlDpQwfQnY)
 ---

@@ -10,7 +10,7 @@ const Footer = () => {
         <Link href="/blog" className="link link-hover">Articles</Link>
       </nav>
       <aside>
-        <p>&copy; {currentYear} [Your Name] - All rights reserved.</p>
+        <p>&copy; {currentYear} Chris Cameron-Hann - All rights reserved.</p>
         <p>Expert Insights on Flood Risk & Environmental Consulting.</p>
         {/* Optional: Link to Aegaea or other affiliations */}
       </aside>

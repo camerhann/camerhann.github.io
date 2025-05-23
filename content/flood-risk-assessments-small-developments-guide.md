@@ -3,9 +3,9 @@ title: "Flood Risk Assessments for Small Developments: Navigating Requirements f
 date: "2024-05-06"
 author: "Chris Cameron-Hann"
 description: "Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending."
-keywords: ["small development flood risk assessment", "minor development FRA", "householder flood risk assessment", "small site FRA requirements", "proportionate FRA", "planning flood risk small scale"]
-tags: ["Small Developments", "Flood Risk", "FRA", "Planning Permission"]
-categories: ["Flood Risk Assessment", "Development Guidance"]
+keywords: ["flood risk assessment small developments", "minor applications FRA", "house extension flood zone", "small site flood risk", "proportionate FRA"]
+tags: ["Small Developments", "Flood Risk", "FRA", "Minor Applications", "Planning Permission"]
+categories: ["Residential Development", "Planning Guidance"]
 featured_image: "/images/blog/small-developments-fra-hero.jpg"
 ---
 

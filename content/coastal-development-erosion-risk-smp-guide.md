@@ -1,12 +1,12 @@
 ---
 title: "Coastal Development and Erosion Risk: Understanding Shoreline Management Plans"
 date: "2024-05-22" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Developing on the coast? Understand Shoreline Management Plans (SMPs) & erosion risk first! Our guide helps developers navigate coastal planning complexities."
-keywords: ["coastal erosion development risk", "shoreline management plans", "coastal planning constraints", "coastal flood risk", "SMP policies", "coastal property development"]
-tags: ["Coastal Development", "Erosion Risk", "Shoreline Management Plans", "UK Planning"]
-categories: ["Coastal Resilience", "Development Planning"]
-featured_image: "/images/blog/placeholder-4.jpg" # Placeholder
+keywords: ["coastal development flood risk", "shoreline management plans explained", "coastal erosion risk assessment", "SMP policies development", "coastal planning permission UK"]
+tags: ["Coastal Development", "Erosion Risk", "Shoreline Management Plans", "Coastal Planning", "Climate Adaptation"]
+categories: ["Coastal Engineering & Management", "Development Planning"]
+featured_image: "/images/blog/coastal-development-erosion-risk-hero.jpg" # Placeholder
 ---
 
 There's an undeniable allure to coastal development – the views, the lifestyle, the potential for premium property values. But beneath that beautiful surface lies a dynamic and often aggressive environment. Coastal erosion and flooding aren't just distant threats; they are active forces shaping our shorelines, and for developers, ignoring them is like building a sandcastle and expecting it to last forever. Especially when there's a detailed, 100-year rulebook in play: the Shoreline Management Plan (SMP).
