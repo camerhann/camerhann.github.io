@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Montserrat, Merriweather } from 'next/font/google';
+import { Montserrat } from 'next/font/google';
 import '../global.css'; // Adjusted path for global.css if it's directly in app/
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
@@ -8,13 +8,6 @@ import Footer from '@/components/layout/Footer';
 const montserrat = Montserrat({
   subsets: ['latin'],
   variable: '--font-montserrat', // CSS variable for sans-serif
-  display: 'swap',
-});
-
-const merriweather = Merriweather({
-  subsets: ['latin'],
-  weight: ['400', '700'],
-  variable: '--font-merriweather', // CSS variable for serif
   display: 'swap',
 });
 
@@ -33,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" data-theme="mytheme" className={`${montserrat.variable} ${merriweather.variable}`}>
+    <html lang="en" data-theme="mytheme" className={`${montserrat.variable} font-sans`}>
       <body>
         <div className="flex flex-col min-h-screen bg-brand-bg-light">
           <Navbar />

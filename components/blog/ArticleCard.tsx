@@ -1,51 +1,53 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { PostData } from '@/lib/posts'; // Assuming PostData interface is exported from posts.ts
+import type { PostData } from '@/lib/posts';
 
-interface ArticleCardProps extends Omit<PostData, 'contentHtml'> {}
+interface ArticleCardProps {
+  post: PostData;
+}
 
-const ArticleCard: React.FC<ArticleCardProps> = ({ 
-  slug, 
-  title, 
-  formattedDate, 
-  description, 
-  author,
-  tags,
-  featured_image 
-}) => {
+const ArticleCard: React.FC<ArticleCardProps> = ({ post }) => {
   return (
-    <div className="card bg-brand-bg-card shadow-xl hover:shadow-2xl transition-shadow duration-300 ease-in-out h-full flex flex-col" data-theme="mytheme">
-      {featured_image && (
-        <figure className="relative h-48 w-full">
+    <Link href={`/blog/${post.slug}`} className="block group border border-gray-200 rounded-lg shadow-sm hover:shadow-lg transition-shadow duration-300 overflow-hidden">
+      {post.featured_image && (
+        <div className="aspect-video relative w-full overflow-hidden">
           <Image 
-            src={featured_image} 
-            alt={title} 
-            layout="fill"
-            objectFit="cover"
-            className="rounded-t-lg"
+            src={post.featured_image} 
+            alt={post.title} 
+            fill
+            className="absolute h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
+            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
           />
-        </figure>
+        </div>
       )}
-      <div className="card-body flex flex-col flex-grow">
-        <h2 className="card-title font-sans text-brand-teal hover:text-brand-teal-light">
-          <Link href={`/blog/${slug}`}>{title}</Link>
+      <div className="p-6">
+        <h2 className="text-xl font-semibold font-sans text-brand-teal group-hover:text-brand-teal-light mb-2 leading-tight">
+          {post.title}
         </h2>
-        {formattedDate && <p className="text-sm text-brand-text-light font-serif">{formattedDate} {author && <>by {author}</>}</p>}
-        <p className="text-brand-text-dark font-serif flex-grow py-2">{description ? description.substring(0, 150) + (description.length > 150 ? '...' : '') : 'Read more to find out...'}</p>
-        {tags && tags.length > 0 && (
-          <div className="card-actions justify-start mt-2 flex-wrap">
-            {tags.slice(0, 3).map(tag => (
-              <div key={tag} className="badge badge-outline border-brand-teal text-brand-teal text-xs font-sans">{tag}</div>
+        {post.formattedDate && (
+          <p className="text-sm text-gray-500 mb-2">{post.formattedDate}</p>
+        )}
+        {post.description && (
+          <p className="text-gray-600 text-sm mb-3 leading-relaxed line-clamp-3">
+            {post.description}
+          </p>
+        )}
+        <div className="mt-auto">
+          <span className="text-sm font-medium text-brand-blue group-hover:underline">
+            Read more &rarr;
+          </span>
+        </div>
+        {post.tags && post.tags.length > 0 && (
+          <div className="mt-4 pt-3 border-t border-gray-100">
+            {post.tags.slice(0, 3).map(tag => (
+              <span key={tag} className="inline-block bg-gray-100 text-gray-700 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full capitalize">
+                {tag}
+              </span>
             ))}
           </div>
         )}
-        <div className="card-actions justify-end mt-auto pt-4">
-          <Link href={`/blog/${slug}`} className="btn btn-sm btn-ghost text-brand-teal hover:bg-brand-teal/10 font-sans">
-            Read More
-          </Link>
-        </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

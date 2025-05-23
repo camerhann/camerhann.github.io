@@ -52,6 +52,25 @@ export function getSortedPostsData(limit?: number): PostData[] {
   return sortedPosts;
 }
 
+export function getAllUniqueTags(): string[] {
+  const allPosts = getSortedPostsData();
+  const allTags = new Set<string>();
+  allPosts.forEach(post => {
+    if (post.tags) {
+      post.tags.forEach(tag => allTags.add(tag));
+    }
+  });
+  return Array.from(allTags).sort(); // Return sorted unique tags
+}
+
+export function getPostsByTag(tag: string): PostData[] {
+  const allPosts = getSortedPostsData();
+  const lowercaseTag = tag.toLowerCase();
+  return allPosts.filter(post => 
+    post.tags && post.tags.some(t => t.toLowerCase() === lowercaseTag)
+  );
+}
+
 export async function getPostData(slug: string): Promise<PostData> {
   const fullPath = path.join(postsDirectory, `${slug}.md`);
   if (!fs.existsSync(fullPath)) {
