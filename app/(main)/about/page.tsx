@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import Image from 'next/image'; // Optional: if you want to use next/image
 
 export const metadata: Metadata = {
-  title: 'About [Your Name] - Flood & Environmental Expertise',
-  description: 'Learn more about [Your Name], an expert in flood risk, drainage, and environmental consulting dedicated to building resilient futures.',
+  title: 'About Chris Cameron-Hann - Flood & Environmental Expertise',
+  description: 'Learn more about Chris Cameron-Hann, an expert in flood risk, drainage, and environmental consulting dedicated to building resilient futures. Founder of Aegaea, Senior Hydromet Adviser at the World Bank, and SVP Business Development at 7Analytics.',
 };
 
 export default function AboutPage() {
@@ -16,7 +16,7 @@ export default function AboutPage() {
         <div className="mb-8 text-center">
           <Image 
             src="/images/your-profile-photo.jpg" // Replace with your photo path in /public/images
-            alt="[Your Name] - Profile Photo"
+            alt="Chris Cameron-Hann - Profile Photo"
             width={200}
             height={200}
             className="rounded-full mx-auto shadow-md"
@@ -25,9 +25,9 @@ export default function AboutPage() {
         </div>
         */}
         
-        <h2 className="text-2xl font-semibold font-sans text-brand-teal mb-4">[Your Name]</h2>
+        <h2 className="text-2xl font-semibold font-sans text-brand-teal mb-4">Chris Cameron-Hann</h2>
         <p className="text-lg text-brand-text-dark mb-4">
-          Hello! I&#39;m [Your Name], a passionate and experienced consultant specializing in flood risk management, sustainable drainage systems (SuDS), and comprehensive environmental assessments. With [X] years in the field, I&#39;ve had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and private landowners.
+          Hello! I'm Chris Cameron-Hann, a passionate and experienced consultant specializing in flood risk management, sustainable drainage systems (SuDS), and comprehensive environmental assessments. I've had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and private landowners.
         </p>
         <p className="text-lg text-brand-text-dark mb-4">
           My core mission is to bridge the gap between complex environmental challenges and pragmatic, effective solutions. I believe that sustainable development and robust resilience are not mutually exclusive but can, and should, go hand-in-hand.
@@ -48,7 +48,7 @@ export default function AboutPage() {
         </ul>
 
         <p className="text-lg text-brand-text-dark mb-4">
-          Currently, I [mention your current role, e.g., lead environmental consultant at Aegaea / operate as an independent consultant / etc.]. I&#39;m always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
+          Currently, I am the Founder of Aegaea, a Senior Hydromet Adviser at the World Bank, and SVP Business Development at 7Analytics. I'm always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
         </p>
 
         {/* Optional: Link to LinkedIn or professional profile */}

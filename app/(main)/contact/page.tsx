@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact [Your Name] - Flood & Environmental Consulting Enquiries',
-  description: 'Get in touch with [Your Name] for discussions on flood risk, drainage, environmental consulting, or collaboration opportunities.',
+  title: 'Contact Chris Cameron-Hann - Flood & Environmental Consulting Enquiries',
+  description: 'Get in touch with Chris Cameron-Hann for discussions on flood risk, drainage, environmental consulting, or collaboration opportunities. Contact Aegaea for expert advice.',
 };
 
 export default function ContactPage() {
@@ -11,23 +11,37 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold font-sans text-brand-teal mb-8 text-center">Get In Touch</h1>
       <div className="bg-brand-bg-card p-8 rounded-lg shadow-lg">
         <p className="text-lg text-brand-text-dark mb-6">
-          I&#39;m always open to discussing new projects, collaborations, or simply sharing insights on flood risk management, sustainable development, and environmental best practices. 
+          I'm always open to discussing new projects, collaborations, or simply sharing insights on flood risk management, sustainable development, and environmental best practices. 
         </p>
         <p className="text-lg text-brand-text-dark mb-6">
-          Please feel free to reach out via email, and I&#39;ll get back to you as soon as possible.
+          Please feel free to reach out via the contact details below, and I'll get back to you as soon as possible.
         </p>
         
         <div className="mb-6">
           <h3 className="text-xl font-semibold font-sans text-brand-teal mb-2">Email</h3>
-          <a href="mailto:your.email@example.com" className="text-brand-teal hover:text-brand-teal-light text-lg break-all">
-            your.email@example.com {/* Replace with your actual email */}
+          <a href="mailto:chris@aegaea.com" className="text-brand-teal hover:text-brand-teal-light text-lg break-all">
+            chris@aegaea.com
+          </a>
+        </div>
+
+        <div className="mb-6">
+          <h3 className="text-xl font-semibold font-sans text-brand-teal mb-2">Phone</h3>
+          <a href="tel:07383557941" className="text-brand-teal hover:text-brand-teal-light text-lg">
+            07383557941
+          </a>
+        </div>
+
+        <div className="mb-6">
+          <h3 className="text-xl font-semibold font-sans text-brand-teal mb-2">Website (Aegaea)</h3>
+          <a href="https://www.aegaea.com" target="_blank" rel="noopener noreferrer" className="text-brand-teal hover:text-brand-teal-light text-lg">
+            www.aegaea.com
           </a>
         </div>
 
         {/* Optional: LinkedIn Profile Link */}
-        {/* <div className="mb-6">
+        {/* <div className="mb-6">\
           <h3 className="text-xl font-semibold font-sans text-brand-teal mb-2">LinkedIn</h3>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-brand-teal hover:text-brand-teal-light text-lg">
+          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-brand-teal hover:text-brand-teal-light text-lg">\
             Connect on LinkedIn
           </a>
         </div> */}
@@ -48,7 +62,7 @@ export default function ContactPage() {
             <textarea name="message" id="message" rows={4} required className="mt-1 block w-full textarea textarea-bordered focus:ring-brand-teal focus:border-brand-teal"></textarea>
           </div>
           <div>
-            <button type="submit" className="btn btn-primary bg-brand-teal hover:bg-brand-teal-light border-none text-white font-sans">
+            <button type="submit" className="btn btn-primary bg-brand-teal hover:bg-brand-teal-light border-none text-white font-sans">\
               Send Message
             </button>
           </div>
