@@ -1,6 +1,6 @@
-# Personal Blog Site for [Your Name]
+# Personal Blog Site for Chris Cameron-Hann
 
-This is the personal blog website for [Your Name], focusing on insights into flood risk, drainage, environmental consulting, and sustainable development.
+This is the personal blog website for Chris Cameron-Hann, focusing on insights into flood risk, drainage, environmental consulting, and sustainable development.
 
 Built with Next.js, React, Tailwind CSS, and DaisyUI.
 

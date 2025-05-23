@@ -20,16 +20,20 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   try {
     const post = await getPostData(params.slug);
+    if (!post) {
+      return notFound();
+    }
     return {
-      title: `${post.title} - [Your Name]`,
-      description: post.description || 'An insightful article from [Your Name]',
-      authors: [{ name: post.author || '[Your Name]' }],
+      title: `${post.title} - Chris Cameron-Hann`,
+      description: post.description || 'An insightful article from Chris Cameron-Hann',
+      authors: [{ name: post.author || 'Chris Cameron-Hann' }],
+      keywords: post.tags, // Assuming tags can be used as keywords
       openGraph: {
         title: post.title,
         description: post.description || '',
         type: 'article',
-        publishedTime: post.date, // Assumes date is in ISO format
-        authors: [post.author || '[Your Name]'],
+        publishedTime: new Date(post.date).toISOString(),
+        authors: [post.author || 'Chris Cameron-Hann'],
         tags: post.tags,
         images: post.featured_image ? [{ url: `https://yourdomain.com${post.featured_image}` }] : [], // Replace with your actual domain
       },
