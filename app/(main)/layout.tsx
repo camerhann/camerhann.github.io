@@ -1,14 +1,15 @@
 import type { Metadata } from 'next';
-import { Montserrat } from 'next/font/google';
+import { Noto_Sans } from 'next/font/google';
 import '../global.css'; // Adjusted path for global.css if it's directly in app/
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 
 // Font configuration
-const montserrat = Montserrat({
+const notoSans = Noto_Sans({
   subsets: ['latin'],
-  variable: '--font-montserrat', // CSS variable for sans-serif
+  variable: '--font-noto-sans', // CSS variable for sans-serif
   display: 'swap',
+  weight: ['400', '700'] // Added common weights, adjust as needed
 });
 
 export const metadata: Metadata = {
@@ -26,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" data-theme="mytheme" className={`${montserrat.variable} font-sans`}>
+    <html lang="en" data-theme="mytheme" className={`${notoSans.variable} font-sans`}>
       <body>
         <div className="flex flex-col min-h-screen bg-brand-bg-light">
           <Navbar />
