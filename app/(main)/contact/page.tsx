@@ -11,10 +11,10 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold font-sans text-brand-teal mb-8 text-center">Get In Touch</h1>
       <div className="bg-brand-bg-card p-8 rounded-lg shadow-lg">
         <p className="text-lg text-brand-text-dark mb-6">
-          I'm always open to discussing new projects, collaborations, or simply sharing insights on flood risk management, sustainable development, and environmental best practices. 
+          I&apos;m always open to discussing new projects, collaborations, or simply sharing insights on flood risk management, sustainable development, and environmental best practices. 
         </p>
         <p className="text-lg text-brand-text-dark mb-6">
-          Please feel free to reach out via the contact details below, and I'll get back to you as soon as possible.
+          Please feel free to reach out via the contact details below, and I&apos;ll get back to you as soon as possible.
         </p>
         
         <div className="mb-6">

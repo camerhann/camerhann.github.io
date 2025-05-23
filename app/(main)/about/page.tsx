@@ -28,7 +28,7 @@ export default function AboutPage() {
         
         <h2 className="text-2xl font-semibold font-sans text-brand-teal mb-4">Chris Cameron-Hann</h2>
         <p className="text-lg text-brand-text-dark mb-4">
-          Hello! I'm Chris Cameron-Hann. My work focuses on navigating complex water and environmental challenges through bespoke, innovative solutions. I have had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and governments worldwide.
+          Hello! I&apos;m Chris Cameron-Hann. My work focuses on navigating complex water and environmental challenges through bespoke, innovative solutions. I have had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and governments worldwide.
         </p>
         <p className="text-lg text-brand-text-dark mb-4">
           My core mission is to bridge the gap between these challenges and pragmatic, effective solutions. I believe that sustainable development and robust resilience are not mutually exclusive but can, and should, go hand-in-hand.
@@ -36,7 +36,7 @@ export default function AboutPage() {
         
         <div className="text-lg text-brand-text-dark mb-4 space-y-3">
           <p>
-            I am a <strong>Director at Aegaea Limited</strong>, a water, civils and environmental consultancy. We offer bespoke and innovative solutions to the UK and International flood risk and water markets, finding the 'how' to take your project forward by leveraging technology and deep insight into water.
+            I am a <strong>Director at Aegaea Limited</strong>, a water, civils and environmental consultancy. We offer bespoke and innovative solutions to the UK and International flood risk and water markets, finding the &apos;how&apos; to take your project forward by leveraging technology and deep insight into water.
           </p>
           <p>
             As an <strong>advisor and business development consultant to 7Analytics</strong>, a Norwegian flood risk and flood forecasting specialist, I contribute to disrupting and improving the physical risk space with enhanced flood data.
@@ -64,7 +64,7 @@ export default function AboutPage() {
         </ul>
 
         <p className="text-lg text-brand-text-dark mb-4">
-          I'm always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
+          I&apos;m always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
         </p>
 
         <Link href="https://www.linkedin.com/in/chris-cameron-hann/" target="_blank" rel="noopener noreferrer" className="btn btn-outline border-brand-teal text-brand-teal hover:bg-brand-teal hover:text-white mt-4">

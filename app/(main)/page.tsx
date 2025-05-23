@@ -11,7 +11,7 @@ export default async function HomePage() {
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
-            <h1 className="mb-5 text-5xl font-bold font-sans text-white">Welcome! I\'m Chris</h1>
+            <h1 className="mb-5 text-5xl font-bold font-sans text-white">Welcome! I&apos;m Chris</h1>
             <p className="mb-5 font-serif text-lg">
               Sharing expert insights on tehcnology,flood risk, drainage, environmental consulting, and building resilient futures.
             </p>
