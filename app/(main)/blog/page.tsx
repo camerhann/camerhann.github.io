@@ -33,6 +33,7 @@ export default function BlogIndexPage() {
                   key={post.slug} 
                   slug={post.slug} 
                   title={post.title} 
+                  date={post.date}
                   formattedDate={post.formattedDate}
                   description={post.description}
                   author={post.author}

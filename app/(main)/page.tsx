@@ -11,7 +11,7 @@ export default async function HomePage() {
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
-            <h1 className="mb-5 text-5xl font-bold font-sans text-white">Welcome! I'm [Your Name]</h1>
+            <h1 className="mb-5 text-5xl font-bold font-sans text-white">Welcome! I&#39;m [Your Name]</h1>
             <p className="mb-5 font-serif text-lg">
               Sharing expert insights on flood risk, drainage, environmental consulting, and building resilient futures.
             </p>
@@ -35,7 +35,7 @@ export default async function HomePage() {
                 description={description} 
                 author={author}
                 tags={tags}
-                featuredImage={featured_image}
+                featured_image={featured_image}
               />
             ))}
           </div>

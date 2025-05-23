@@ -27,7 +27,7 @@ export default function AboutPage() {
         
         <h2 className="text-2xl font-semibold font-sans text-brand-teal mb-4">[Your Name]</h2>
         <p className="text-lg text-brand-text-dark mb-4">
-          Hello! I'm [Your Name], a passionate and experienced consultant specializing in flood risk management, sustainable drainage systems (SuDS), and comprehensive environmental assessments. With [X] years in the field, I've had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and private landowners.
+          Hello! I&#39;m [Your Name], a passionate and experienced consultant specializing in flood risk management, sustainable drainage systems (SuDS), and comprehensive environmental assessments. With [X] years in the field, I&#39;ve had the privilege of working with a diverse range of clients, from national developers and industrial operators to local authorities and private landowners.
         </p>
         <p className="text-lg text-brand-text-dark mb-4">
           My core mission is to bridge the gap between complex environmental challenges and pragmatic, effective solutions. I believe that sustainable development and robust resilience are not mutually exclusive but can, and should, go hand-in-hand.
@@ -48,7 +48,7 @@ export default function AboutPage() {
         </ul>
 
         <p className="text-lg text-brand-text-dark mb-4">
-          Currently, I [mention your current role, e.g., lead environmental consultant at Aegaea / operate as an independent consultant / etc.]. I'm always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
+          Currently, I [mention your current role, e.g., lead environmental consultant at Aegaea / operate as an independent consultant / etc.]. I&#39;m always keen to connect with like-minded professionals and those looking to build more resilient and sustainable futures.
         </p>
 
         {/* Optional: Link to LinkedIn or professional profile */}

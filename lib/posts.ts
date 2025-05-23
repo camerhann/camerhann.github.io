@@ -1,8 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { remark } from 'remark';
-import html from 'remark-html';
+import { marked } from 'marked';
 import { format, parseISO } from 'date-fns';
 
 export interface PostData {
@@ -61,10 +60,7 @@ export async function getPostData(slug: string): Promise<PostData> {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const matterResult = matter(fileContents);
 
-  const processedContent = await remark()
-    .use(html, { sanitize: false }) // Be cautious with sanitize: false if content isn't trusted
-    .process(matterResult.content);
-  const contentHtml = processedContent.toString();
+  const contentHtml = marked.parse(matterResult.content) as string;
 
   const post: PostData = {
     slug,

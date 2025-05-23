@@ -4,6 +4,7 @@ import SocialShare from '@/components/ui/SocialShare';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation'; // For handling non-existent slugs
+import Image from 'next/image';
 
 type Props = {
   params: {
@@ -75,10 +76,13 @@ export default async function PostPage({ params }: Props) {
       
       {post.featured_image && (
         <div className="mb-8 aspect-video relative overflow-hidden rounded-lg shadow-lg">
-          <img 
+          <Image 
             src={post.featured_image} 
             alt={`Featured image for ${post.title}`} 
+            fill
             className="absolute h-full w-full object-cover"
+            sizes="(max-width: 768px) 100vw, 700px"
+            priority={true}
           />
         </div>
       )}

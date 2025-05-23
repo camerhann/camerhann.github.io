@@ -1,6 +1,8 @@
+"use client";
+
 import {
   FacebookShareButton, FacebookIcon,
-  TwitterShareButton, XIcon,
+  TwitterShareButton, TwitterIcon,
   LinkedinShareButton, LinkedinIcon,
   EmailShareButton, EmailIcon,
   WhatsappShareButton, WhatsappIcon,
@@ -20,7 +22,7 @@ const SocialShare: React.FC<SocialShareProps> = ({ url, title, description }) =>
       <h3 className="text-lg font-semibold font-sans text-brand-text-dark mb-3">Share this article:</h3>
       <div className="flex space-x-3">
         <TwitterShareButton url={url} title={title}>
-          <XIcon size={iconSize} round />
+          <TwitterIcon size={iconSize} round />
         </TwitterShareButton>
 
         <LinkedinShareButton url={url} title={title} summary={description}>
