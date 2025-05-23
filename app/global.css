@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 body {
-  @apply bg-brand-bg-light text-brand-text-dark font-serif antialiased;
+  @apply bg-brand-bg-light text-brand-text-dark font-sans antialiased;
   line-height: 1.7;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-sans font-bold text-brand-teal mt-6 mb-3 leading-tight;
+  @apply font-sans font-bold mt-6 mb-3 leading-tight;
 }
 
 h1 { @apply text-4xl md:text-5xl; }
@@ -17,7 +17,7 @@ h3 { @apply text-2xl md:text-3xl; }
 h4 { @apply text-xl md:text-2xl; }
 
 a {
-  @apply text-brand-teal hover:text-brand-teal-light transition-colors duration-150;
+  @apply text-brand-pink hover:text-brand-lime transition-colors duration-150;
 }
 
 /* Basic responsive typography for prose */
@@ -38,5 +38,5 @@ a {
 
 /* Style for DaisyUI components if needed beyond theme */
 .btn-primary {
-  @apply bg-brand-teal border-brand-teal hover:bg-brand-teal-light hover:border-brand-teal-light text-white;
+  @apply bg-brand-lime border-brand-lime hover:bg-brand-pink hover:border-brand-pink text-white;
 } 
