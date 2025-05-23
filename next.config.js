@@ -2,7 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
-  trailingSlash: true,
   // Optional: Add MDX support if you want to use JSX in your markdown
   // pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   // experimental: {
