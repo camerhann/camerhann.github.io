@@ -31,14 +31,7 @@ export default function BlogIndexPage() {
               {allPosts.map((post: PostData) => (
                 <ArticleCard 
                   key={post.slug} 
-                  slug={post.slug} 
-                  title={post.title} 
-                  date={post.date}
-                  formattedDate={post.formattedDate}
-                  description={post.description}
-                  author={post.author}
-                  tags={post.tags}
-                  featured_image={post.featured_image}
+                  post={post}
                 />
               ))}
             </div>
