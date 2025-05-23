@@ -3,9 +3,9 @@ title: "Retrofitting Flood Protection: Solutions for Existing Properties in High
 date: "2024-05-07"
 author: "Chris Cameron-Hann"
 description: "Existing property in a flood risk area? Discover effective retrofitting flood protection solutions to reduce damage, cut recovery time & improve resilience."
-keywords: ["property flood resilience retrofit", "flood protection existing buildings", "flood resilience measures", "flood proofing buildings", "PFR solutions", "home flood protection"]
-tags: ["Property Flood Resilience", "Flood Protection", "Retrofitting", "Flood Mitigation"]
-categories: ["Flood Resilience", "Existing Buildings"]
+keywords: ["property flood resilience", "retrofitting flood protection", "flood mitigation existing buildings", "PFR measures", "home flood repair"]
+tags: ["Property Flood Resilience", "Flood Protection", "Retrofitting", "Existing Buildings"]
+categories: ["Flood Resilience", "Property Management"]
 featured_image: "/images/blog/retrofitting-flood-protection-hero.jpg"
 Featured image: Photo by [Tierra Mallorca](https://unsplash.com/@tierramallorca) on [Unsplash](https://unsplash.com/photos/white-and-red-wooden-house-miniature-on-brown-table-rgJ1J8SDEAY)
 ---

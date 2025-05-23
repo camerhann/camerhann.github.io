@@ -3,9 +3,9 @@ title: "Developing in Critical Drainage Areas: Strategies for Planning Success"
 date: "2024-05-09"
 author: "Chris Cameron-Hann"
 description: "Facing a Critical Drainage Area (CDA) designation? Our guide helps developers understand CDA requirements & strategies for successful planning outcomes."
-keywords: ["critical drainage area development", "CDA planning requirements", "critical drainage constraints", "flood risk critical drainage", "LLFA drainage policy", "SuDS in CDAs"]
-tags: ["Critical Drainage Areas", "Flood Risk", "SuDS", "Urban Planning"]
-categories: ["Drainage Management", "Regulatory Guidance"]
+keywords: ["critical drainage area development", "CDA planning requirements", "surface water management CDA", "SuDS CDA", "LLFA critical drainage areas"]
+tags: ["Critical Drainage Areas", "Flood Risk", "SuDS", "Surface Water Management", "LLFA", "Planning"]
+categories: ["Drainage & Flood Management", "Development Planning"]
 featured_image: "/images/blog/critical-drainage-areas-hero.jpg"
 Featured image: Photo by [Justin Wilkens](https://unsplash.com/@jlwilkens) on [Unsplash](https://unsplash.com/photos/aerial-photography-of-ducks-on-body-of-water-BN_34jVz_wk)
 ---

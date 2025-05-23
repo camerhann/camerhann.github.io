@@ -1,12 +1,12 @@
 ---
 title: "Flood Resilient Design: Meeting Insurability Requirements for Developments in Flood Risk Areas"
 date: "2024-05-20" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
-description: "Building in a flood risk area? Make your development insurable! Our guide to flood resilient design helps meet insurer expectations & protect property value."
-keywords: ["flood resilient design", "property flood resilience", "flood insurance development", "flood zone insurability", "resilient construction", "flood mitigation design"]
-tags: ["Flood Resilience", "Insurability", "Property Development", "Construction Standards"]
-categories: ["Resilient Design", "Insurance"]
-featured_image: "/images/blog/placeholder-6.jpg" # Placeholder
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
+description: "Building in a flood risk area? Make your development insurable! Our guide to flood resilient design helps meet insurer expectations & protect property values."
+keywords: ["flood resilient design standards", "insurability flood risk areas", "building in flood zones insurance", "property flood resilience measures", "developer guide flood insurance"]
+tags: ["Flood Resilience", "Insurability", "Property Development", "Flood Risk Management"]
+categories: ["Design & Construction", "Insurance & Risk"]
+featured_image: "/images/blog/flood-resilient-design-hero.jpg" # Placeholder
 ---
 
 So, you've navigated the planning maze, your Flood Risk Assessment (FRA) has been approved (phew!), and you're ready to build in an area with some acknowledged flood risk. Job done? Not quite. Now comes another crucial hurdle: **insurability**. If future owners or tenants can't get affordable insurance, your shiny new development could become a very expensive white elephant.

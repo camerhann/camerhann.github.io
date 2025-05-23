@@ -3,9 +3,9 @@ title: "Flood Risk Assessment for Renewable Energy Projects: Navigating Unique R
 date: "2024-05-04"
 author: "Chris Cameron-Hann"
 description: "Solar, wind, battery storage & flood risk? Our guide helps renewable energy developers navigate unique FRA requirements for successful planning consent."
-keywords: ["renewable energy flood risk", "solar farm flood risk assessment", "wind farm FRA requirements", "battery storage flood risk", "BESS flood safety", "renewable planning flood zone"]
-tags: ["Renewable Energy", "Flood Risk", "BESS", "Infrastructure Planning"]
-categories: ["Renewables", "Infrastructure Planning"]
+keywords: ["flood risk assessment renewable energy", "solar farm FRA", "BESS flood risk", "wind turbine flood risk", "environmental impact assessment renewables"]
+tags: ["Renewable Energy", "Flood Risk", "BESS", "Solar Farms", "Wind Turbines", "Planning"]
+categories: ["Renewable Energy Development", "Environmental Assessment"]
 featured_image: "/images/blog/renewable-energy-fra-hero.jpg"
 ---
 

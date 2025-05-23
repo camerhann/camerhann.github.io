@@ -1,12 +1,12 @@
 ---
 title: "Climate Change Allowances in Flood Risk Assessments: What's Changed and Why It Matters"
 date: "2024-05-23" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Climate change is rewriting flood risk. Is your FRA using the latest allowances? Our guide explains updated UK requirements & how to future-proof your development."
-keywords: ["climate change allowances flood risk", "updated flood risk guidance", "climate change FRA requirements", "future flood risk", "development climate resilience", "peak river flow allowances"]
-tags: ["Climate Change", "Flood Risk Assessment", "Regulatory Guidance", "UK Planning"]
-categories: ["Climate Adaptation", "Flood Risk"]
-featured_image: "/images/blog/placeholder-3.jpg" # Placeholder
+keywords: ["climate change flood risk assessment allowances", "NPPF climate change FRA", "future flood risk modelling", "sea level rise development", "peak river flow allowances UK"]
+tags: ["Climate Change", "Flood Risk Assessment", "Regulatory Guidance", "Future Proofing", "NPPF"]
+categories: ["Climate Adaptation", "Flood Risk Management"]
+featured_image: "/images/blog/climate-change-allowances-hero.jpg" # Placeholder
 ---
 
 If flood risk assessment was a video game, climate change allowances would be that constantly shifting, increasingly difficult final boss level. Just when you think you've got it figured out, the goalposts move. And in the world of property development, those moving goalposts can have multi-million-pound consequences.

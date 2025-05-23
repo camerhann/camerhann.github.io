@@ -3,9 +3,9 @@ title: "Flood Risk Assessments for Environmental Permits: Essential Guidance for
 date: "2024-05-03"
 author: "Chris Cameron-Hann"
 description: "Need an Environmental Permit? Flood risk is key! Our guide helps industrial operators navigate FRA requirements for EA permits & pollution prevention."
-keywords: ["environmental permit flood risk assessment", "industrial FRA requirements", "EA permit flood risk", "pollution prevention flood risk", "COMAH flood risk", "EPR FRA"]
-tags: ["Environmental Permit", "Flood Risk", "Industrial Compliance", "Pollution Prevention"]
-categories: ["Environmental Permitting", "Industrial Compliance"]
+keywords: ["environmental permit flood risk assessment", "FRA for EPR industrial sites", "pollution prevention flood risk", "EA permit flood compliance", "COMAH site flood risk"]
+tags: ["Environmental Permit", "Flood Risk", "Industrial Compliance", "Pollution Prevention", "EA Regulation"]
+categories: ["Industrial Regulation", "Environmental Risk Management"]
 featured_image: "/images/blog/environmental-permit-fra-hero.jpg"
 Featured image: Photo by [Austrian National Library](https://unsplash.com/@austriannationallibrary) on [Unsplash](https://unsplash.com/photos/grayscale-photography-of-teacher-standing-near-chalkboard-and-children-sitting-on-chairs-GxB6Pbi4Jzg)
 ---

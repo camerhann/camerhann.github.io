@@ -2,10 +2,10 @@
 title: "Sequential and Exception Tests Explained: Unlocking Development Potential in Flood Risk Areas"
 date: "2024-05-08"
 author: "Chris Cameron-Hann"
-description: "Confused by Flood Risk Sequential & Exception Tests? Our developer's guide demystifies NPPF requirements & helps you justify development in flood zones."
-keywords: ["sequential test flood risk", "exception test development", "flood zone planning tests", "NPPF flood risk test", "justifying development flood zone", "FRA sequential test"]
-tags: ["Sequential Test", "Exception Test", "Flood Risk", "Planning"]
-categories: ["Regulatory Guidance", "UK Planning"]
+description: "Confused by Flood Risk Sequential & Exception Tests? Our developer's guide demystifies NPPF requirements & helps you justify development in flood zones 2 & 3."
+keywords: ["sequential test flood risk", "exception test flood risk", "NPPF flood risk tests", "development in flood zones", "flood risk planning guidance"]
+tags: ["Sequential Test", "Exception Test", "Flood Risk", "NPPF", "Planning Policy"]
+categories: ["Flood Risk Assessment", "Development Planning"]
 featured_image: "/images/blog/sequential-exception-tests-hero.jpg"
 Featured image: Photo by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/person-holding-tube-XLhDvfz0sUM)
 ---

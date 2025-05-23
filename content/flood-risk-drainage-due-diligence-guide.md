@@ -1,12 +1,12 @@
 ---
 title: "Flood Risk and Drainage Due Diligence: Essential Checks Before Land Acquisition"
 date: "2024-05-18" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Buying land? Don't get sunk by hidden flood or drainage issues! Our guide covers essential due diligence checks to protect your development investment."
-keywords: ["flood risk due diligence", "land acquisition flood assessment", "development site flood risk", "drainage constraints land purchase", "pre-purchase flood checks", "site feasibility flood"]
-tags: ["Due Diligence", "Land Acquisition", "Flood Risk Assessment", "Drainage", "Investment Protection"]
-categories: ["Site Feasibility", "Risk Management"]
-featured_image: "/images/blog/placeholder-8.jpg" # Placeholder
+keywords: ["flood risk due diligence land acquisition", "drainage assessment pre purchase", "site feasibility flood risk", "land buying checklist flood", "environmental due diligence drainage"]
+tags: ["Due Diligence", "Land Acquisition", "Flood Risk Assessment", "Drainage Strategy"]
+categories: ["Property Development", "Risk Management"]
+featured_image: "/images/blog/flood-risk-drainage-due-diligence-hero.jpg" # Placeholder
 ---
 
 In the high-stakes game of land acquisition, what you *don't* know can most certainly hurt you. Hidden flood risks or unexpected drainage constraints can turn that dream site into a development nightmare, eroding profits and even rendering portions of your land undevelopable. It's a bit like buying a beautiful old house only to discover the foundations are made of Swiss cheese – a costly and entirely avoidable surprise.

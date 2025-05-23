@@ -1,12 +1,12 @@
 ---
 title: "Surface Water Flood Risk: The Hidden Threat to Development Viability"
 date: "2024-05-21" # Placeholder Date - Please Update
-author: "[Your Name]" # Placeholder Author - Please Update
+author: "Chris Cameron-Hann" # Placeholder Author - Please Update
 description: "Surface water flooding affects 60% of at-risk UK properties! Learn to assess this hidden threat & design solutions that satisfy LLFAs & protect your development."
 keywords: ["surface water flood risk assessment", "pluvial flooding development", "surface water drainage strategy", "LLFA requirements", "overland flow paths", "SuDS surface water"]
 tags: ["Surface Water Flooding", "Drainage Strategy", "LLFA", "Development Viability", "SuDS"]
 categories: ["Flood Risk", "Drainage Management"]
-featured_image: "/images/blog/placeholder-5.jpg" # Placeholder
+featured_image: "/images/blog/surface-water-flood-risk-hero.jpg" # Placeholder
 ---
 
 When developers think "flood risk," minds often drift to overflowing rivers or crashing coastal waves. But there's a sneakier, more widespread culprit causing development headaches and damaging properties across the UK: surface water flooding. Also known as pluvial flooding, this is the unwelcome guest that arrives when intense rainfall overwhelms drainage systems and the ground's ability to absorb water, turning streets into temporary streams and low-lying areas into paddling pools.

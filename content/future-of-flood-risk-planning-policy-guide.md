@@ -2,10 +2,10 @@
 title: "The Future of Flood Risk Planning Policy: Preparing for Upcoming Regulatory Changes"
 date: "2024-05-01"
 author: "Chris Cameron-Hann"
-description: "Flood risk planning policy is evolving fast! Our guide explores upcoming regulatory changes in the UK & helps developers prepare for a more challenging landscape."
-keywords: ["flood risk policy changes", "future flood planning regulations", "climate change flood planning", "UK flood policy developments", "planning policy update flood", "development flood resilience future"]
-tags: ["Flood Risk Policy", "Planning", "Climate Change", "UK Development"]
-categories: ["Policy & Regulation", "Strategic Planning"]
+description: "Flood risk planning policy is evolving fast! Our guide explores upcoming regulatory changes in the UK & helps developers prepare for a more challenging future."
+keywords: ["flood risk policy changes UK", "future flood risk management", "NPPF updates flood risk", "climate change planning policy", "environmental regulations development"]
+tags: ["Flood Risk Policy", "Planning", "Climate Change", "Regulatory Update", "Future Development"]
+categories: ["Regulatory Guidance", "Strategic Planning"]
 featured_image: "/images/blog/future-flood-policy-hero.jpg"
 Featured image: Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/a-green-flag-with-the-words-vegan-on-it-hVJEmJPDfeg)
 ---
