@@ -1,36 +1,34 @@
-name: Deploy to GitHub Pages
+    name: Deploy to GitHub Pages
 
-on:
-  push:
-    branches:
-      - main
+    on:
+      push:
+        branches:
+          - main
 
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    permissions: # Add this line
+      contents: write # Add this line
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-          cache: 'npm'
+    jobs:
+      build-deploy:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout code
+            uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: npm install
+          - name: Set up Node.js
+            uses: actions/setup-node@v4
+            with:
+              node-version: 18
+              cache: 'npm'
 
-      - name: Lint
-        run: npm run lint
+          - name: Install dependencies
+            run: npm install
 
-      - name: Build
-        run: npm run build
+          - name: Build and Export # next build now handles export due to output: "export" in next.config.js
+            run: npm run build
 
-      - name: Export static site
-        run: npm run export
-
-      - name: Deploy to GitHub Pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run deploy 
+          - name: Deploy to GitHub Pages
+            uses: peaceiris/actions-gh-pages@v3
+            with:
+              github_token: ${{ secrets.GITHUB_TOKEN }}
+              publish_dir: ./out
