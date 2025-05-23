@@ -37,10 +37,10 @@ export default function TagPage({ params }: Props) {
     return (
       <div className="text-center py-12">
         <h1 className="text-3xl font-bold text-brand-teal mb-4">
-          No posts found for "{tagName}"
+          No posts found for &quot;{tagName}&quot;
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          Sorry, there are no articles tagged with "{tagName}" at the moment.
+          Sorry, there are no articles tagged with &quot;{tagName}&quot; at the moment.
         </p>
         <Link href="/blog" className="text-brand-teal hover:text-brand-teal-light font-sans">
           &larr; View all articles
@@ -59,7 +59,7 @@ export default function TagPage({ params }: Props) {
     <div className="py-8">
       <header className="mb-12 text-center">
         <h1 className="text-4xl font-bold font-sans text-brand-teal">
-          Posts tagged with: <span className="capitalize">"{titleCaseTagName}"</span>
+          Posts tagged with: <span className="capitalize">&quot;{titleCaseTagName}&quot;</span>
         </h1>
       </header>
 
