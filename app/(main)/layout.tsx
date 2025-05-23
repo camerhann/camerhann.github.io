@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Montserrat, Merriweather } from 'next/font/google';
+import Script from 'next/script'; // Import the Script component
 import '../global.css'; // Adjusted path for global.css if it's directly in app/
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
@@ -34,6 +35,25 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" data-theme="mytheme" className={`${montserrat.variable} ${merriweather.variable}`}>
+      <head>
+        {/* Google tag (gtag.js) */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-TFQY841XR9"
+        />
+        <Script
+          id="gtag-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-TFQY841XR9');
+            `,
+          }}
+        />
+      </head>
       <body>
         <div className="flex flex-col min-h-screen bg-brand-bg-light">
           <Navbar />
