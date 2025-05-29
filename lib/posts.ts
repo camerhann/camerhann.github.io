@@ -18,7 +18,7 @@ export interface PostData {
   // Add any other front matter fields you expect
 }
 
-const postsDirectory = path.join(process.cwd(), 'content');
+const postsDirectory = path.join(process.cwd(), 'content/blog');
 
 export function getSortedPostsData(limit?: number): PostData[] {
   let fileNames = fs.readdirSync(postsDirectory).filter(f => f.endsWith('.md'));

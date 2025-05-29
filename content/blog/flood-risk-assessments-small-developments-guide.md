@@ -112,7 +112,4 @@ A well-targeted, concise FRA not only satisfies planners but also gives you peac
 *   `/case-studies/cost-effective-fra-single-dwelling`
 *   `/contact-us`
 
-Featured image: Photo by [Bench Accounting](https://unsplash.com/@benchaccounting) on [Unsplash](https://unsplash.com/photos/woman-standing-near-brown-wooden-cabinet-8D2k7a3wMKQ)
-
-
-</rewritten_file> 
+Featured image: Photo by [Bench Accounting](https://unsplash.com/@benchaccounting) on [Unsplash](https://unsplash.com/photos/woman-standing-near-brown-wooden-cabinet-8D2k7a3wMKQ) 

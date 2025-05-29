@@ -116,7 +116,4 @@ It's an investment in peace of mind, in the longevity of your property, and in a
 *   `/resources/pfr-product-selection-guide` (new content idea)
 *   `/blog/understanding-your-flood-history-report`
 *   `/case-studies/cost-benefit-analysis-of-pfr-measures`
-*   `/contact-us`
-
-
-</rewritten_file> 
+*   `/contact-us` 

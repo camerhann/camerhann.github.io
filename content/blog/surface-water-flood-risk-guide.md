@@ -115,7 +115,4 @@ Ignoring it, on the other hand, is a fast track to washed-out budgets and waterl
 *   `/resources/understanding-critical-drainage-areas` (new content idea)
 *   `/blog/introduction-to-blue-green-infrastructure`
 *   `/case-studies/innovative-suds-solution-urban-redevelopment`
-*   `/contact-us`
-
-
-</rewritten_file> 
+*   `/contact-us` 
