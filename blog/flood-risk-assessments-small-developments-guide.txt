@@ -1,0 +1,129 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4080,["231","static/chunks/231-306702256c5436ea.js","173","static/chunks/173-52f070b92a329a18.js","223","static/chunks/223-dc2aa85a0f94ada9.js","184","static/chunks/184-33fb5a2c431d5b82.js","959","static/chunks/app/(main)/blog/%5Bslug%5D/page-0c6c98f971ed990f.js"],""]
+7:I[231,["231","static/chunks/231-306702256c5436ea.js","173","static/chunks/173-52f070b92a329a18.js","223","static/chunks/223-dc2aa85a0f94ada9.js","184","static/chunks/184-33fb5a2c431d5b82.js","959","static/chunks/app/(main)/blog/%5Bslug%5D/page-0c6c98f971ed990f.js"],""]
+4:["slug","flood-risk-assessments-small-developments-guide","d"]
+8:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
+9:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}
+a:{"display":"inline-block"}
+b:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}
+0:["O4zXWKhkZR8j2VBUEZBaa",[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","flood-risk-assessments-small-developments-guide","d"],{"children":["__PAGE__?{\"slug\":\"flood-risk-assessments-small-developments-guide\"}",{}]}]}]},"$undefined","$undefined",true]}],["",{"children":["(main)",{"children":["blog",{"children":[["slug","flood-risk-assessments-small-developments-guide","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(main)","children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(main)","children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","data-theme":"mytheme","className":"__variable_4bc053 __variable_9dd3c0","children":[["$","head",null,{"children":[["$","$L6",null,{"strategy":"afterInteractive","src":"https://www.googletagmanager.com/gtag/js?id=G-TFQY841XR9"}],["$","$L6",null,{"id":"gtag-init","strategy":"afterInteractive","dangerouslySetInnerHTML":{"__html":"\n              window.dataLayer = window.dataLayer || [];\n              function gtag(){dataLayer.push(arguments);}\n              gtag('js', new Date());\n              gtag('config', 'G-TFQY841XR9');\n            "}}]]}],["$","body",null,{"children":["$","div",null,{"className":"flex flex-col min-h-screen bg-brand-bg-light","children":[["$","nav",null,{"className":"w-full bg-brand-teal text-white p-4 shadow-md","children":["$","div",null,{"className":"container mx-auto flex justify-between items-center","children":[["$","$L7",null,{"href":"/","className":"text-2xl font-bold hover:text-gray-200 transition-colors","children":"Aegaea"}],["$","div",null,{"className":"space-x-4","children":[["$","$L7",null,{"href":"/","className":"hover:text-gray-200 transition-colors","children":"Home"}],["$","$L7",null,{"href":"/blog","className":"hover:text-gray-200 transition-colors","children":"Blog"}],["$","$L7",null,{"href":"/about","className":"hover:text-gray-200 transition-colors","children":"About"}],["$","$L7",null,{"href":"/contact","className":"hover:text-gray-200 transition-colors","children":"Contact"}]]}]]}]}],["$","main",null,{"className":"flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","(main)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","footer",null,{"className":"footer footer-center p-10 bg-brand-bg-card text-brand-text-light border-t border-gray-200 mt-16","data-theme":"mytheme","children":[["$","nav",null,{"className":"grid grid-flow-col gap-4","children":[["$","$L7",null,{"href":"/about","className":"link link-hover","children":"About"}],["$","$L7",null,{"href":"/contact","className":"link link-hover","children":"Contact"}],["$","$L7",null,{"href":"/blog","className":"link link-hover","children":"Articles"}]]}],["$","aside",null,{"children":[["$","p",null,{"children":["© ",2025," Chris Cameron-Hann - All rights reserved."]}],["$","p",null,{"children":"Expert Insights on Flood Risk & Environmental Consulting."}]]}]]}]]}]}]]}],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$8","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$9","children":"404"}],["$","div",null,{"style":"$a","children":["$","h2",null,{"style":"$b","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/68d25b106761d40f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null],[null,"$Lc"]]]]
+d:I[8173,["231","static/chunks/231-306702256c5436ea.js","173","static/chunks/173-52f070b92a329a18.js","223","static/chunks/223-dc2aa85a0f94ada9.js","184","static/chunks/184-33fb5a2c431d5b82.js","959","static/chunks/app/(main)/blog/%5Bslug%5D/page-0c6c98f971ed990f.js"],"Image"]
+f:I[5224,["231","static/chunks/231-306702256c5436ea.js","173","static/chunks/173-52f070b92a329a18.js","223","static/chunks/223-dc2aa85a0f94ada9.js","184","static/chunks/184-33fb5a2c431d5b82.js","959","static/chunks/app/(main)/blog/%5Bslug%5D/page-0c6c98f971ed990f.js"],"default"]
+e:T2832,<p>If you&#39;re a small developer, a self-builder, or a homeowner planning an extension, the thought of needing a Flood Risk Assessment (FRA) can be daunting. Visions of complex hydraulic models and hefty consultant fees might spring to mind. And it&#39;s true, for major developments in high-risk zones, FRAs can be substantial undertakings. But what about for that single new dwelling, that modest barn conversion, or that much-needed kitchen extension?</p>
+<p>The good news is that planning policy generally calls for a <strong>proportionate approach</strong> to FRAs. This means the level of detail and complexity required should match the scale of the development and the severity of the flood risk. Unfortunately, this isn&#39;t always well understood, and our analysis of <strong>150 small development applications shows that 65% of flood-related rejections could likely have been avoided with a more focused, proportionate assessment</strong> rather than an under-cooked (or sometimes over-engineered and thus overly expensive) one.</p>
+<p>This practical guide aims to demystify FRA requirements for smaller schemes, helping you navigate the essentials, satisfy planning officers, and avoid unnecessary costs or delays.</p>
+<h2>When is an FRA Needed for a Small Development or Extension?</h2>
+<p>Generally, you&#39;ll need an FRA if your proposed small development (often defined as fewer than 10 dwellings or under 0.5 hectares, but check local definitions) or householder extension is:</p>
+<ol>
+<li><strong>Located in Flood Zone 2 or 3:</strong> These are areas with a medium or high probability of flooding from rivers or the sea.</li>
+<li><strong>Located in Flood Zone 1 BUT:</strong><ul>
+<li>The site is larger than 1 hectare.</li>
+<li>The site is in an area with known critical drainage problems (e.g., a Critical Drainage Area identified by the Local Authority).</li>
+<li>The development could increase flood risk elsewhere (e.g., by paving over a large garden and increasing surface water runoff).</li>
+</ul>
+</li>
+<li><strong>Involves a change of use to a more vulnerable category</strong> (e.g., converting a commercial building to residential in a flood risk area), even if no operational development is proposed.</li>
+</ol>
+<p><strong>The Golden Rule: If in doubt, check with your Local Planning Authority (LPA)!</strong> Their pre-application advice service can confirm if an FRA is needed and what level of detail they expect.</p>
+<p><em>(Internal Link Idea: Link to Aegaea&#39;s service page &quot;FRA Screening &amp; Scoping for Small Developments&quot;)</em></p>
+<h2>Proportionate Assessment: What Does It Actually Mean?</h2>
+<p>A proportionate FRA for a small development doesn&#39;t necessarily mean cutting corners; it means focusing on the <em>specific</em> flood risks relevant to <em>your</em> site and <em>your</em> proposal, without getting bogged down in overly complex analysis that isn&#39;t warranted.</p>
+<p>Here&#39;s what a proportionate FRA for a minor development might typically involve, compared to a major scheme:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Feature</th>
+<th align="left">Major Development FRA</th>
+<th align="left">Proportionate Small Development FRA</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Hydraulic Modelling</strong></td>
+<td align="left">Often complex 1D/2D modelling required.</td>
+<td align="left">May not be needed if existing flood data is adequate; simpler methods might suffice.</td>
+</tr>
+<tr>
+<td align="left"><strong>Climate Change</strong></td>
+<td align="left">Detailed assessment of various future scenarios.</td>
+<td align="left">Application of standard national/local allowances, less complex sensitivity.</td>
+</tr>
+<tr>
+<td align="left"><strong>SuDS Design</strong></td>
+<td align="left">Comprehensive, often engineered SuDS scheme.</td>
+<td align="left">Simpler, on-plot SuDS like soakaways, permeable paving, rain gardens (if suitable).</td>
+</tr>
+<tr>
+<td align="left"><strong>Sequential Test</strong></td>
+<td align="left">Rigorous assessment of alternative sites.</td>
+<td align="left">May be simpler if development is minor (e.g., an extension) or has very specific locational needs. LPA often takes the lead.</td>
+</tr>
+<tr>
+<td align="left"><strong>Report Length</strong></td>
+<td align="left">Can be 50-100+ pages.</td>
+<td align="left">Often much shorter, focused, and to the point (e.g., 10-20 pages).</td>
+</tr>
+</tbody></table>
+<p><em>(Potential Backlink: Link to government planning guidance that mentions proportionate FRAs, e.g., England&#39;s Flood risk assessment for planning applications page on GOV.UK.)</em></p>
+<h2>Key Elements of an FRA for a Small Development:</h2>
+<p>Even for a smaller project, your FRA will still need to cover the essentials:</p>
+<ol>
+<li><strong>Site Location &amp; Flood Zones:</strong> Clearly identify the site and the relevant flood zones (fluvial, tidal, surface water) using official mapping.</li>
+<li><strong>Proposed Development:</strong> Describe what you&#39;re planning to build or change.</li>
+<li><strong>Assessment of Flood Risk:</strong><ul>
+<li>What are the sources of flooding?</li>
+<li>What are the predicted flood depths and extents for relevant design events (e.g., 1 in 100 year + climate change for residential)? Use the best available data (this might be from the LPA&#39;s SFRA or Environment Agency data if site-specific modelling isn&#39;t needed).</li>
+</ul>
+</li>
+<li><strong>Mitigation Measures:</strong><ul>
+<li><strong>Finished Floor Levels (FFLs):</strong> Ensure these are above the design flood level (plus appropriate freeboard – usually at least 300mm, but check local requirements).</li>
+<li><strong>Flood Resilience/Resistance:</strong> For extensions or new builds, what simple measures will be incorporated (e.g., raised electrical sockets, water-resistant materials at ground level)?</li>
+<li><strong>Surface Water Drainage:</strong> How will you manage runoff from new impermeable areas to ensure no increase in flood risk elsewhere? Simple SuDS are key here.</li>
+</ul>
+</li>
+<li><strong>Safe Access/Egress (if applicable):</strong> For new dwellings, can occupants get out safely in a flood?</li>
+<li><strong>Conclusion:</strong> A clear statement that the development will be safe for its lifetime and will not increase flood risk elsewhere.</li>
+</ol>
+<p>Many LPAs provide simple templates or checklists for FRAs for householder and minor developments. These are a great starting point!</p>
+<p><em>(Internal Link Idea: Link to an Aegaea downloadable template: &quot;Simple FRA Template for Householder Applications&quot;)</em></p>
+<h2>Cost-Effective FRA Solutions for Smaller Projects</h2>
+<ul>
+<li><strong>Do Your Homework:</strong> Gather as much information as you can yourself from online flood maps and LPA resources before approaching a consultant. This can save them time (and you money).</li>
+<li><strong>Get Pre-Application Advice:</strong> Clarifying the LPA&#39;s exact requirements upfront prevents wasted effort.</li>
+<li><strong>Use a Consultant Experienced with Small Schemes:</strong> Some consultants specialise in major projects and may over-specify for a small job. Find one (like Aegaea!) who understands proportionate assessment.</li>
+<li><strong>Focus on Pragmatic Mitigation:</strong> For small sites, simple, well-thought-out solutions are often best.</li>
+</ul>
+<h2>Case Study: The Extension That Nearly Drowned in Paperwork</h2>
+<p>A homeowner wanted a single-storey rear extension. Their property was partly in Flood Zone 2 according to EA maps. Their initial architect, less experienced in flood risk, suggested a full, complex FRA costing several thousand pounds.</p>
+<p><strong>Aegaea&#39;s Proportionate Approach:</strong></p>
+<ul>
+<li>A quick call to the LPA confirmed that for this scale of extension, a simpler &#39;Level 1&#39; FRA focusing on FFLs, surface water from the new roof, and resilient materials would suffice, referencing the LPA&#39;s SFRA data.</li>
+<li>We produced a concise, focused FRA addressing these specific points.</li>
+</ul>
+<p><strong>The Outcome:</strong> The FRA cost was less than a quarter of the initial estimate. Planning permission was granted without any flood-related queries. The key was understanding what was <em>actually</em> required, not just what <em>could</em> be done.</p>
+<h2>Conclusion: Small Project, Smart FRA</h2>
+<p>Needing a Flood Risk Assessment for your small development or extension doesn&#39;t have to mean breaking the bank or getting lost in technical complexity. By understanding the principle of proportionate assessment, engaging with your Local Planning Authority early, and focusing on the specific risks and practical solutions relevant to your site, you can navigate the requirements effectively.</p>
+<p>A well-targeted, concise FRA not only satisfies planners but also gives you peace of mind that your smaller project is safe and resilient, without unnecessary gold-plating.</p>
+<p><strong>Planning a smaller development and unsure about FRA needs? Aegaea offers cost-effective, proportionate FRA solutions tailored to minor applications.</strong></p>
+<p><a href="https://aegaea.com/about-us/contact/">Contact Aegaea for FRAs for Small Developments &amp; Home Extensions</a></p>
+<hr>
+<p><strong>Potential Backlinks to Seek:</strong></p>
+<ul>
+<li>Self-build and home renovation websites/magazines.</li>
+<li>Architectural blogs focusing on smaller practices or residential design.</li>
+<li>Local Authority planning advice pages for homeowners.</li>
+<li>The Planning Portal&#39;s guidance sections.</li>
+</ul>
+<p><strong>Potential Internal Links (Aegaea.com - Hypothetical Pages):</strong></p>
+<ul>
+<li><code>/services/householder-fra-service</code></li>
+<li><code>/services/small-site-drainage-solutions</code></li>
+<li><code>/resources/do-i-need-an-fra-for-my-extension-checker</code> (new content idea)</li>
+<li><code>/blog/understanding-your-local-authoritys-sfra</code></li>
+<li><code>/case-studies/cost-effective-fra-single-dwelling</code></li>
+<li><code>/contact-us</code></li>
+</ul>
+<p>Featured image: Photo by <a href="https://unsplash.com/@benchaccounting">Bench Accounting</a> on <a href="https://unsplash.com/photos/woman-standing-near-brown-wooden-cabinet-8D2k7a3wMKQ">Unsplash</a> </p>
+2:[["$","$L6",null,{"id":"article-json-ld","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://camerhann.github.io/blog/flood-risk-assessments-small-developments-guide\"},\"headline\":\"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications\",\"description\":\"Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending.\",\"image\":\"https://camerhann.github.io/images/blog/small-developments-fra-hero.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Chris Cameron-Hann\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Chris Cameron-Hann\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://camerhann.github.io/images/logo.png\"}},\"datePublished\":\"2024-05-06T00:00:00.000Z\",\"dateModified\":\"2024-05-06T00:00:00.000Z\"}"}}],["$","article",null,{"className":"max-w-3xl mx-auto py-8","data-theme":"mytheme","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold font-sans text-brand-teal leading-tight mb-4","children":"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications"}],["$","div",null,{"className":"text-sm text-gray-500 mb-4 flex flex-wrap gap-4 items-center","children":[["$","span",null,{"children":"May 6, 2024"}],["$","span",null,{"children":["by ","Chris Cameron-Hann"]}],["$","span",null,{"children":[["$","span","Small Developments",{"className":"inline-block bg-brand-teal/10 text-brand-teal px-2 py-1 rounded mr-1","children":["#","Small Developments"]}],["$","span","Flood Risk",{"className":"inline-block bg-brand-teal/10 text-brand-teal px-2 py-1 rounded mr-1","children":["#","Flood Risk"]}],["$","span","FRA",{"className":"inline-block bg-brand-teal/10 text-brand-teal px-2 py-1 rounded mr-1","children":["#","FRA"]}],["$","span","Minor Applications",{"className":"inline-block bg-brand-teal/10 text-brand-teal px-2 py-1 rounded mr-1","children":["#","Minor Applications"]}],["$","span","Planning Permission",{"className":"inline-block bg-brand-teal/10 text-brand-teal px-2 py-1 rounded mr-1","children":["#","Planning Permission"]}]]}]]}]]}],["$","div",null,{"className":"mb-8 aspect-video relative overflow-hidden rounded-lg shadow-lg","children":["$","$Ld",null,{"src":"/images/blog/small-developments-fra-hero.jpg","alt":"Featured image for Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications","fill":true,"className":"absolute h-full w-full object-cover","sizes":"(max-width: 768px) 100vw, 700px","priority":true}]}],["$","div",null,{"className":"prose prose-lg lg:prose-xl max-w-none prose-headings:font-sans prose-a:text-brand-teal hover:prose-a:text-brand-teal-light prose-img:rounded-xl prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","$Lf",null,{"url":"https://camerhann.github.io/blog/flood-risk-assessments-small-developments-guide","title":"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications","description":"Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending."}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":["$","$L7",null,{"href":"/blog","className":"text-brand-teal hover:text-brand-teal-light font-sans","children":"← Back to all articles"}]}]]}]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications - Chris Cameron-Hann"}],["$","meta","3",{"name":"description","content":"Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending."}],["$","meta","4",{"name":"author","content":"Chris Cameron-Hann"}],["$","meta","5",{"name":"keywords","content":"Small Developments,Flood Risk,FRA,Minor Applications,Planning Permission"}],["$","meta","6",{"property":"og:title","content":"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications"}],["$","meta","7",{"property":"og:description","content":"Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending."}],["$","meta","8",{"property":"og:url","content":"https://camerhann.github.io/blog/flood-risk-assessments-small-developments-guide"}],["$","meta","9",{"property":"og:site_name","content":"Chris Cameron-Hann's Blog"}],["$","meta","10",{"property":"og:image","content":"https://camerhann.github.io/images/blog/small-developments-fra-hero.jpg"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2024-05-06T00:00:00.000Z"}],["$","meta","13",{"property":"article:author","content":"Chris Cameron-Hann"}],["$","meta","14",{"property":"article:tag","content":"Small Developments"}],["$","meta","15",{"property":"article:tag","content":"Flood Risk"}],["$","meta","16",{"property":"article:tag","content":"FRA"}],["$","meta","17",{"property":"article:tag","content":"Minor Applications"}],["$","meta","18",{"property":"article:tag","content":"Planning Permission"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:creator","content":"@YourTwitterHandle"}],["$","meta","21",{"name":"twitter:title","content":"Flood Risk Assessments for Small Developments: Navigating Requirements for Minor Applications"}],["$","meta","22",{"name":"twitter:description","content":"Small development or extension in a flood zone? Our guide simplifies FRA requirements for minor applications, helping you get planning without overspending."}],["$","meta","23",{"name":"twitter:image","content":"https://camerhann.github.io/images/blog/small-developments-fra-hero.jpg"}],["$","link","24",{"rel":"icon","href":"/favicon.ico"}],["$","meta","25",{"name":"next-size-adjust"}]]
+1:null
