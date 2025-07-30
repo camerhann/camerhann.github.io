@@ -1,9 +1,9 @@
-# Warrington: Powering Growth and Managing Flood Risk on the River Mersey
-
-**Meta Description:** Developing in Warrington? The town's growth is tied to the River Mersey and its tributaries. Aegaea provides expert Flood Risk Assessments (FRAs) to navigate Warrington Borough Council's planning policies and deliver resilient projects.
-
-**Keywords:** Warrington Borough Council planning, River Mersey flood risk, development in Warrington, Sankey Brook, Padgate Brook, Flood Risk Assessment Warrington, Warrington Local Plan, Aegaea flood consultants, SFRA
-
+---
+title: "Warrington: Powering Growth and Managing Flood Risk on the River Mersey"
+description: "Developing in Warrington? The town's growth is tied to the River Mersey and its tributaries. Aegaea provides expert Flood Risk Assessments (FRAs) to navigate Warrington Borough Council's planning policies and deliver resilient projects."
+keywords: ['Warrington Borough Council planning', 'River Mersey flood risk', 'development in Warrington', 'Sankey Brook', 'Padgate Brook', 'Flood Risk Assessment Warrington', 'Warrington Local Plan', 'Aegaea flood consultants', 'SFRA']
+image: /images/blog/warrington-river-mersey-development.png
+date: 2024-07-29
 ---
 
 Warrington's strategic location and economic dynamism make it a key hub for growth and development in the North West. The town's geography is defined by the **River Mersey** and its important tributaries, including the Sankey, Padgate, and Woolston Brooks. While these waterways are integral to the town's character, they also create significant **flood risk** that must be expertly managed to support sustainable growth.
@@ -28,7 +28,7 @@ REPLACE ALT TEXT & FILENAME IN MARKDOWN
     *   The Mersey's tributaries, such as Padgate Brook and Sankey Brook, are known to be "flashy," meaning they can respond very quickly to intense, localised rainfall, causing flooding in areas away from the main river.
 
 3.  **Surface Water and Urban Drainage:**
-    *   As a major urban and commercial centre, Warrington faces challenges with [surface water flooding](https://camerhann.github.io/blog/surface-water-flooding-hidden-menace-prepare). The capacity of local drainage systems can be exceeded during heavy storms, posing a risk to properties and infrastructure across the borough.
+    *   As a major urban and commercial centre, Warrington faces challenges with [surface water flooding](/blog/surface-water-flooding-hidden-menace-prepare). The capacity of local drainage systems can be exceeded during heavy storms, posing a risk to properties and infrastructure across the borough.
 
 4.  **Warrington Borough Council's Planning Approach:**
     *   The council's adopted Local Plan places a high priority on managing flood risk. The SFRA is the key evidence base that informs planning decisions, requiring a sequential approach to site allocation.
@@ -36,15 +36,15 @@ REPLACE ALT TEXT & FILENAME IN MARKDOWN
 
 ## Aegaea: Your Expert Partner for Development in Warrington
 
-[Aegaea’s flood risk consultants](https://aegaea.com/about-us) are adept at navigating the specific challenges of the Warrington area:
+[Aegaea’s flood risk consultants](/about-us) are adept at navigating the specific challenges of the Warrington area:
 
 *   **SFRA-Compliant Flood Risk Assessments:** We produce meticulous FRAs that directly address the requirements of Warrington's SFRA and Local Plan policies, ensuring your planning application is built on a solid evidence base.
 *   **Complex River Modelling:** We have the capability to undertake detailed hydraulic modelling where required, providing a precise understanding of flood mechanisms from the Mersey and its tributaries.
-*   **Integrated SuDS Design:** We design practical and effective [Sustainable Drainage Systems (SuDS)](https://camerhann.github.io/blog/suds-guide-homeowners-small-developers) to manage surface water runoff, a critical component for gaining planning approval in the borough.
+*   **Integrated SuDS Design:** We design practical and effective [Sustainable Drainage Systems (SuDS)](/blog/suds-guide-homeowners-small-developers) to manage surface water runoff, a critical component for gaining planning approval in the borough.
 *   **Proactive Stakeholder Engagement:** We work collaboratively with Warrington Borough Council's planning and engineering teams, as well as the Environment Agency, to ensure a smooth and positive planning outcome for your project.
 
-Warrington is seizing its potential as an economic powerhouse. [With Aegaea as your partner](https://aegaea.com/services), you can be confident that your development will positively contribute to this growth, underpinned by expert flood risk management.
+Warrington is seizing its potential as an economic powerhouse. [With Aegaea as your partner](/services), you can be confident that your development will positively contribute to this growth, underpinned by expert flood risk management.
 
 ---
 
-*Planning a project in the Warrington area? [Contact Aegaea today to discuss the specific flood risk requirements for your site.](https://aegaea.com/contact-us)* 
+*Planning a project in the Warrington area? [Contact Aegaea today to discuss the specific flood risk requirements for your site.](/contact-us)* 

@@ -1,9 +1,9 @@
-# Peterborough: Development, Growth, and Managing Flood Risk from the River Nene
-
-**Meta Description:** Planning a development in Peterborough? Growth in the city is closely linked to the River Nene and its flood risk. Aegaea offers expert FRAs to navigate the Peterborough City Council planning process and ensure your project is safe and sustainable.
-
-**Keywords:** Peterborough City Council planning, River Nene flood risk, development in Peterborough, Fens flood plain, Flood Risk Assessment Peterborough, sustainable urban expansion, Peterborough Local Plan, Aegaea flood consultants, SFRA
-
+---
+title: "Peterborough: Development, Growth, and Managing Flood Risk from the River Nene"
+description: "Planning a development in Peterborough? Growth in the city is closely linked to the River Nene and its flood risk. Aegaea offers expert FRAs to navigate the Peterborough City Council planning process and ensure your project is safe and sustainable."
+keywords: ['Peterborough City Council planning', 'River Nene flood risk', 'development in Peterborough', 'Fens flood plain', 'Flood Risk Assessment Peterborough', 'sustainable urban expansion', 'Peterborough Local Plan', 'Aegaea flood consultants', 'SFRA']
+image: /images/blog/peterborough-river-nene-development.png
+date: 2024-07-29
 ---
 
 Peterborough is one of the UK's fastest-growing cities, with ambitious plans for development and regeneration. This growth is intrinsically linked to its landscape, which is dominated by the **River Nene** and the unique drainage characteristics of the Fens. While a vital asset to the city, the river also presents a significant **flood risk** that must be carefully managed.
@@ -28,7 +28,7 @@ REPLACE ALT TEXT & FILENAME IN MARKDOWN
     *   The low-lying, flat topography of the Fens surrounding Peterborough presents unique drainage challenges. The area relies on a complex, man-made network of drains, pumps, and embankments, managed by Internal Drainage Boards (IDBs). Any new development must integrate with this system and not impede its function.
 
 3.  **Surface Water Flooding:**
-    *   As Peterborough grows, the increase in impermeable surfaces (roofs, roads, car parks) puts pressure on urban drainage systems. Intense rainfall can lead to [surface water flooding](https://camerhann.github.io/blog/surface-water-flooding-hidden-menace-prepare), an issue the council's strategy is designed to address.
+    *   As Peterborough grows, the increase in impermeable surfaces (roofs, roads, car parks) puts pressure on urban drainage systems. Intense rainfall can lead to [surface water flooding](/blog/surface-water-flooding-hidden-menace-prepare), an issue the council's strategy is designed to address.
 
 4.  **Peterborough City Council's Planning Policies:**
     *   The council's Local Plan and supplementary planning documents place a strong emphasis on a "sequential approach" to development, steering it towards areas with the lowest flood risk first.
@@ -36,15 +36,15 @@ REPLACE ALT TEXT & FILENAME IN MARKDOWN
 
 ## Aegaea: Supporting Peterborough's Sustainable Growth
 
-[Aegaea’s flood risk specialists](https://aegaea.com/about-us) offer the tailored expertise needed to succeed in Peterborough's unique planning environment:
+[Aegaea’s flood risk specialists](/about-us) offer the tailored expertise needed to succeed in Peterborough's unique planning environment:
 
 *   **Expert Flood Risk Assessments:** We deliver comprehensive FRAs that are fully compliant with Peterborough City Council's Local Plan and their Flood and Water Management SPD, addressing all sources of flood risk.
-*   **Specialist Fenland Drainage Strategies:** We have a deep understanding of the complex drainage systems in the Fens and can design effective [Sustainable Drainage Systems (SuDS)](https://camerhann.github.io/blog/suds-guide-homeowners-small-developers) that work in harmony with the local environment.
+*   **Specialist Fenland Drainage Strategies:** We have a deep understanding of the complex drainage systems in the Fens and can design effective [Sustainable Drainage Systems (SuDS)](/blog/suds-guide-homeowners-small-developers) that work in harmony with the local environment.
 *   **Liaison with Key Stakeholders:** We engage proactively with Peterborough City Council, the Environment Agency, and local IDBs to ensure a smooth and collaborative planning process.
 *   **Strategic Advice for Growth:** We provide early-stage flood risk advice for major development and regeneration projects, helping to shape masterplans that are both ambitious and sustainable, in line with the city's growth agenda.
 
-Peterborough's future is bright. [Partnering with Aegaea](https://aegaea.com/services) ensures your development can be a successful part of that future, built on a foundation of expert flood risk management.
+Peterborough's future is bright. [Partnering with Aegaea](/services) ensures your development can be a successful part of that future, built on a foundation of expert flood risk management.
 
 ---
 
-*Do you have a development project in the Peterborough area? [Contact Aegaea to discuss how we can help you navigate the specific flood risk challenges and planning requirements.](https://aegaea.com/contact-us)* 
+*Do you have a development project in the Peterborough area? [Contact Aegaea to discuss how we can help you navigate the specific flood risk challenges and planning requirements.](/contact-us)* 

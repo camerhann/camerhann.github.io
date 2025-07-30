@@ -1,9 +1,9 @@
-# Tewkesbury: At the Confluence - Managing Extreme Flood Risk for Development
-
-**Meta Description:** Planning a development in Tewkesbury? Located where the Severn and Avon rivers meet, the borough faces exceptional flood risk. Aegaea provides expert FRAs to navigate Tewkesbury Borough Council's stringent planning policies.
-
-**Keywords:** Tewkesbury Borough Council planning, River Severn flood risk, River Avon flooding, development in Tewkesbury, Tewkesbury floods, Flood Risk Assessment Tewkesbury, Joint Core Strategy, Aegaea flood consultants, SFRA
-
+---
+title: "Tewkesbury: At the Confluence - Managing Extreme Flood Risk for Development"
+description: "Planning a development in Tewkesbury? Located where the Severn and Avon rivers meet, the borough faces exceptional flood risk. Aegaea provides expert FRAs to navigate Tewkesbury Borough Council's stringent planning policies."
+keywords: ['Tewkesbury Borough Council planning', 'River Severn flood risk', 'River Avon flooding', 'development in Tewkesbury', 'Tewkesbury floods', 'Flood Risk Assessment Tewkesbury', 'Joint Core Strategy', 'Aegaea flood consultants', 'SFRA']
+image: /images/blog/tewkesbury-severn-avon-development.png
+date: 2024-07-29
 ---
 
 Tewkesbury's unique location at the confluence of two major rivers, the **Severn and the Avon**, defines its historic character and its modern-day challenges. The town and surrounding borough are exceptionally vulnerable to flooding, as demonstrated by the severe and widespread floods of 2007. For developers, this presents a complex planning environment where flood risk is the paramount consideration.
@@ -36,15 +36,15 @@ REPLACE ALT TEXT & FILENAME IN MARKDOWN
 
 ## Aegaea: Specialist Expertise for an Extreme Environment
 
-[Aegaea’s flood risk consultants](https://aegaea.com/about-us) possess the specialist skills required to address the exceptional challenges of developing in Tewkesbury:
+[Aegaea’s flood risk consultants](/about-us) possess the specialist skills required to address the exceptional challenges of developing in Tewkesbury:
 
 *   **Advanced Flood Modelling and Analysis:** We are capable of undertaking complex hydraulic modelling to understand the combined impact of the Severn and Avon, providing the detailed evidence required for a successful planning application.
 *   **Flood Resilient Design and Architecture:** We are leaders in designing for resilience, providing innovative architectural and engineering solutions that allow developments to withstand and recover from severe flooding. This includes specifying flood-proof materials, raised floor levels, and ensuring safe access and egress.
 *   **Emergency Planning and Evacuation:** We develop robust flood warning and evacuation plans, a critical component for any new development in the borough, ensuring the safety of future occupants.
 *   **High-Level Planning and Negotiation:** We have the experience to engage confidently with Tewkesbury Borough Council, the Environment Agency, and other key stakeholders, presenting a clear and compelling case for well-designed, resilient development.
 
-Developing in Tewkesbury is not for the faint-hearted. It requires a commitment to the highest standards of flood risk management. [With Aegaea as your expert partner](https://aegaea.com/services), you can navigate this complex landscape with confidence, creating developments that are not only viable but also a positive, resilient addition to the borough.
+Developing in Tewkesbury is not for the faint-hearted. It requires a commitment to the highest standards of flood risk management. [With Aegaea as your expert partner](/services), you can navigate this complex landscape with confidence, creating developments that are not only viable but also a positive, resilient addition to the borough.
 
 ---
 
-*Are you considering a development project in the Tewkesbury area? [Contact Aegaea to discuss how our specialist expertise can help you meet the unique flood risk challenges.](https://aegaea.com/contact-us)* 
+*Are you considering a development project in the Tewkesbury area? [Contact Aegaea to discuss how our specialist expertise can help you meet the unique flood risk challenges.](/contact-us)* 
