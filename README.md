@@ -1,22 +1,7 @@
 # camerhann.github.io
-Personal blog and portfolio site for Chris Cameron-Hann, focusing on flood risk, environmental consulting, and technology.
 
-Built with Next.js, Tailwind CSS, and DaisyUI. Deployed on GitHub Pages.
+Retired. The personal site is **[cameronhann.com](https://cameronhann.com)**.
 
-## Content
+This repo used to be a Next.js GitHub Pages farm. It split Google’s entity for Chris Cameron-Hann and ranked above the real site. The live `gh-pages` branch is now a tombstone: noindex + canonical + redirect to cameronhann.com. Old blog URLs 404.
 
-- Blog posts on various topics.
-- Project showcases.
-- About me section.
-
-## Development
-
-To run locally:
-
-```bash
-npm run dev
-```
-
-## Deployment
-
-Deployment to `gh-pages` branch is handled by GitHub Actions on push to `main`. 
+Do not republish the Next.js app. The deploy workflow is disabled. If it is ever re-enabled, it publishes `gone/`, not `out/`.
